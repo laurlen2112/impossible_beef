@@ -1,0 +1,18 @@
+body {
+    font-family: "Georgia";
+    color: #e8a45b;
+    background-color: #37c1ba;
+  }
+
+.jumbotron {
+    background-image: url("bacteria.jpg");
+    opacity: 0.70;
+    background-size: 100% 100%;	
+    color: black	
+}
+.panel-heading{
+  background-color: #37c1ba;
+}
+footer {
+    padding: 25px 25px 25px 25px;
+  }
