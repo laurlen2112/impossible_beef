@@ -1,0 +1,24 @@
+body {
+    font-family: "Verdana";
+    font-size: 75;
+    color: #cf873a;
+    background-color: #4e9592;
+  }
+
+.jumbotron {
+    background-image: url("science_2.jpeg");
+    opacity: 0.75;
+    font-family: "Verdana";
+    font-size: 75;
+    stroke-width: 5;
+    color: #e1ebe4;
+    background-size: 100% 100%
+}
+
+.panel-body{
+  height: 263px
+}
+
+footer {
+    padding: 25px 25px 25px 25px;
+  }
